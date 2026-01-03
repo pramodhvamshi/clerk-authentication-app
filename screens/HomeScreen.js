@@ -182,6 +182,7 @@ export default function HomeScreen({ navigation }) {
                 backgroundColor: "#2563eb",
                 paddingVertical: 12,
                 alignItems: "center",
+                borderRadius:"0px",
               }}
             >
               <Text
