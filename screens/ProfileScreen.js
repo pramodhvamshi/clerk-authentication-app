@@ -44,7 +44,7 @@ export default function ProfileScreen({ navigation }) {
           borderRadius: 20,
           paddingVertical: 24,
           paddingHorizontal: 24,
-          marginTop: -50,
+          marginTop: -25,
           alignItems: "center",
           shadowColor: "#000",
           shadowOpacity: 0.08,

@@ -173,7 +173,7 @@ export default function HomeScreen({ navigation }) {
                 color: "#0f172a",
               }}
             >
-              Quick Actions
+            Quick Action
             </Text>
 
             <TouchableOpacity
@@ -181,7 +181,6 @@ export default function HomeScreen({ navigation }) {
               style={{
                 backgroundColor: "#2563eb",
                 paddingVertical: 12,
-                borderRadius: 999,
                 alignItems: "center",
               }}
             >
